@@ -1,0 +1,6 @@
+1. Notre question : le vent fait-il baisser la pollution ?
+2. Notre découverte : dans le CSV fictif, les PM2.5 à Lille sont en moyenne de 9,5 les jours où le vent atteint au plus 15 km/h, et de 5,1 les jours où il dépasse ce seuil. Cette comparaison montre une association dans nos données.
+3. Notre idée : faire du quiz une petite enquête. Le visiteur donne son avis, cherche des indices dans les graphiques et vérifie ensuite ses réponses.
+4. Aide de l’IA : nous l’avons utilisée pour adapter et déboguer le code Shiny, notamment les filtres et les graphiques interactifs.
+5. Notre choix : l’IA avait proposé de remplacer le fichier de départ. Nous avons demandé de conserver la structure donnée en cours pour suivre les changements bloc par bloc et pouvoir les expliquer.
+6. Répartition : Nous avons tout les deux travaillé sur l’application et demandé des ajustements pour rendre les graphiques plus lisibles. ALI Yessir a proposé d’ajouter le quiz destiné aux visiteurs.
