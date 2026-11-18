@@ -5,7 +5,9 @@ Application web interactive en **R Shiny** qui explore le lien entre la force du
 > Projet académique réalisé en binôme à JUNIA ISEN Lille (cours d'analyse de données avec R, novembre 2026).
 > Les données sont un **jeu pédagogique simulé** fourni pour le cours, pas des mesures officielles.
 
-<!-- Ajoute ici une capture de l'application : ![Aperçu](captures/apercu.png) -->
+![Aperçu de l'application](captures/apercu.png)
+
+![Notre découverte](captures/decouverte.png)
 
 ## La question
 
